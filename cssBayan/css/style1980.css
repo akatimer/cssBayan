@@ -47,7 +47,7 @@ body {
 }
 
 .bayan-line {
-  height: 2px;
+  height: 0.0625em;
   width: 100%;
   background: black;
 }
